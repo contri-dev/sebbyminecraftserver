@@ -1,0 +1,20 @@
+﻿groups:
+  campones:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    inheritance:
+    - g:campones
+    info:
+      prefix: '&6[campones]&f'
+      build: false
+      suffix: '>'
+  ADM:
+    default: false
+    permissions: []
+    inheritance:
+    - g:campones
+    info:
+      prefix: '&4[ADM]&f'
+      build: true
+      suffix: ''

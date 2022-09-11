@@ -1,0 +1,12 @@
+groups:
+
+  g:campones:
+    permissions:
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    
+  g:ADM:
+    permissions:
+    - '*'

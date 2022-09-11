@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 25.2.84.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1662497973128
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1662776631036
+  login: 1662776332787
+money: '0'
+last-account-name: SebbyADM
+lastlocation:
+  world: 7b9ff632-e33a-4939-9355-3ab1662f1d82
+  world-name: world
+  x: -1.5117758308227485
+  y: 87.91248447420905
+  z: -33.11270698006712
+  yaw: -23.882476806640625
+  pitch: 25.74224853515625
+logoutlocation:
+  world: 7b9ff632-e33a-4939-9355-3ab1662f1d82
+  world-name: world
+  x: 318.94531796930505
+  y: 99.34943910359779
+  z: -159.76234171357206
+  yaw: -119.29315185546875
+  pitch: 32.826385498046875
